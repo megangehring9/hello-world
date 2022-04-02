@@ -1,3 +1,10 @@
-# hello-world
-my first code on here
-I Just turned 23 years old
+<1DOCTYPE HTML>
+<html>
+  <h1 class= "blue-text">
+    Hello first code
+  </h1>
+  <style>
+    .blue-text {
+    color: blue;
+    }
+  </style>
